@@ -1,7 +1,7 @@
 # EMOJI-DICTIONARY
 Created with CodeSandbox
 
-#TECH STACK
+# TECH STACK
 1)JAVASCRIPT
 2)HTML
 3)CSS
