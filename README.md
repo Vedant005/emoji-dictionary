@@ -1,6 +1,11 @@
 # EMOJI-DICTIONARY
 Created with CodeSandbox
 
+#TECH STACK
+1)JAVASCRIPT
+2)HTML
+3)CSS
+
 # LIVE LINK 
 https://csb-xv33ey.netlify.app/
 
